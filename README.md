@@ -1,3 +1,3 @@
 # RFID-1
-one application of RFID
+one application
 Real-time、phase based Gesture recognition using rfid tags 
